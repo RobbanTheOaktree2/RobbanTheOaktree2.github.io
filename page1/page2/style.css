@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width: 800px;
+    background-color: rgb(226, 43, 43);
+}
+
+#square1 {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(24, 200, 200); 
+}
+
+#square2 {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(200, 24, 115);
+}
+
+#container {
+    display:flex
+}

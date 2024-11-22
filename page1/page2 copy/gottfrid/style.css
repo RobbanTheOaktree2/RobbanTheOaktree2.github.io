@@ -1,0 +1,49 @@
+#square1 {
+    background-color: rgb(24, 200, 200); 
+    height: 200px;
+    width: 875px;
+}
+
+#square2 {
+    background-color: rgb(200, 24, 115);
+    height: 200px;
+    width: 875px;
+}
+
+#container {
+    display:flex
+}
+
+#square3 {
+    background-color: aquamarine;
+    height: 200px;
+    width: 1250px;
+}
+
+#square4 {
+    background-color: antiquewhite;
+    height: 200px;
+    width: 1250px;
+}
+
+#white_square1 {
+    height: 50px;
+    width: 1250px;
+    background-color: rgb(255, 255, 255)
+}
+
+#white_square3 {
+    height: 200px;
+    width: 50px;
+    background-color: rgb(255, 255, 255)
+}
+
+#small_square {
+    height: 200px;
+    width: 875px;
+}
+
+#big_square {
+    height: 200px;
+    width: 1250px;
+}
