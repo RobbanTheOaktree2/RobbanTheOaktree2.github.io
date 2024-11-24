@@ -55,6 +55,10 @@ main {
     font-size: 19px;
 }
 
+#main_index {
+    font-size: 26px;
+}
+
 #ul_cpu {
     margin: 0px;
     padding: 0px;
